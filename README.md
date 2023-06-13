@@ -1,5 +1,7 @@
 [GitHub repo](https://github.com/whomwah/rqrcode) for the rqrcode gem.
 
+#### Commands that I run to create this application to work with RQRCode gem
+
 ```bash
 rails new rqrcode
 ```
@@ -20,10 +22,4 @@ rails active_storage:install
 rails db:migrate
 ```
 
-```bash
-
-```
-
-```bash
-
-```
+Configure the model file to work with RQRCode gem.
